@@ -57,27 +57,38 @@ I’m **Seung Hyun (Sally) Hahm**, an M.S. student in **Computer Science at Dart
 My research focuses on **video understanding** and **audio description generation** for accessibility.
 
 ---
-
-### Research Highlights
-- **Multimodal Video Understanding** — develop AI systems that analyze visual scenes, relationships, and emotions to produce accessible **audio descriptions**.  
-- **Character Relationship Modeling** — completed a **High Honors Thesis** under **Prof. SouYoung Jin**, leading to my first paper submission:  
-  > *Character Relationship Prediction in Movies: Toward Emotionally-Aware Automatic Audio Descriptions* (WACV 2026, under review)  
-- **Recognition** — awarded **academic citations** in *Computer Vision, Deep Learning,* and *Multimodal Generative AI*.
-- **Retrieval-informed Video Description Systems** — ongoing project enhancing factual and contextual grounding in AI narration *(details under review; to be released after publication)*.
-- **NextCare (Singapore)** — co-founded a health data startup; led design of privacy-preserving blockchain-based data sharing and AI health assistants.
+### Research
+- **Multimodal Video Understanding** — develop AI systems that interpret scenes, relationships, and emotions to generate accessible audio descriptions.  
+- **Character Relationship Modeling** — completed a High Honors Thesis under **Prof. SouYoung Jin**, leading to my first paper submission:  
+  > *Character Relationship Prediction in Movies: Toward Emotionally-Aware Automatic Audio Descriptions* (WACV 2026, under review)
+- **Ongoing Work** — developing retrieval-informed video description systems to improve factual and contextual grounding in AI narration. *(Details under review; to be released after publication.)*
 
 ---
 
-### Teaching Experience
+### Academic Recognition
+- Graduated with High Honors.  
+- Received academic citations for exceptional academic performance in *Computer Vision*, *Deep Learning*, and *Multimodal Generative AI*.
+
+---
+
+### Work Experience
+- **NextCare** — Co-founded a health-data startup building blockchain-based infrastructure for privacy-preserving medical-record exchange and AI-driven health assistants.  
+  Focused on designing scalable systems and applying AI for accessible, trustworthy healthcare solutions.
+
+---
+
+### Teaching
 - **Graduate TA — COSC 76: Artificial Intelligence** *(Fall 2025, Prof. Soroush Vosoughi)*  
-- **TA — COSC 74: Machine Learning** *(Spring 2025, Prof. Soroush Vosoughi)*  
+- **Undergraduate TA — COSC 74: Machine Learning** *(Spring 2025, Prof. Soroush Vosoughi)*  
 - **Class Notes Ally — COSC 89.32: Multimodal Generative AI** *(Fall 2024, Prof. Yu-Wing Tai)*  
+  – A position through Dartmouth’s **Student Accessibility Services**, providing course notes and adapted materials for students with documented disabilities to ensure equitable academic access.
 
 ---
+
 
 ### Long-Term Vision
-My long-term research connects **video understanding**, **language grounding**, and **assistive robotics**.  
-I aim to build AI systems that can **see, describe, and act**—extending from accessible narration to **embodied intelligence** that supports people with disabilities.
+ 
+I aim to build AI systems that can see, describe, and act acoordingly—extending from accessible narration to embodied intelligence that supports people with disabilities.
 
 ---
 
