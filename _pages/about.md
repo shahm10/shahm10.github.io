@@ -1,17 +1,29 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+permalink: /about/
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I’m **Seung Hyun (Sally) Hahm**, a Computer Science M.S. candidate at **Dartmouth College**, where I study **video understanding and audio description generation** — with a broad goal of using AI to make the world more accessible for the visually impaired.
 
-A data-driven personal website
+My research explores how multimodal AI systems can **see, understand, and communicate** what’s happening in videos. I develop models that analyze visual scenes, recognize relationships and emotions between people, and transform these insights into natural **audio descriptions**.  
+These systems aim not only to describe visual content but also to **convey narrative and emotional meaning**, helping visually impaired users experience stories more fully.
+
+During my undergraduate studies at Dartmouth, I completed a **High Honors Thesis** under **Professor SouYoung Jin** on **character relationship modeling in movies**, which led to my first publication submission:  
+> *Character Relationship Prediction in Movies: Toward Emotionally-Aware Automatic Audio Descriptions* (WACV 2026, under review)
+
+I graduated **with High Honors** and received **academic citations** in *Computer Vision, Deep Learning,* and *Multimodal Generative AI* for outstanding research contributions.
+
+
+Previously, I co-founded **NextCare**, a blockchain-based health data exchange platform in Singapore, where I led the design of privacy-preserving data sharing frameworks and AI-based health assistants. That experience grounded my commitment to **ethical, human-centered AI** — systems that are both technically rigorous and socially impactful.
+
+Long-term, I’m interested in extending my work toward **embodied AI** — intelligent agents that integrate visual understanding, language grounding, and memory to interact naturally in the physical world.
+
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
