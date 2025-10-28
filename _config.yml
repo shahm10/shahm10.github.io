@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/shahm10"
+  github           : "shahm10"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/seung-hyun-hahm"
+  linkedin         : "seung-hyun-hahm"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -80,13 +80,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -217,19 +217,19 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -253,40 +253,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
