@@ -1,12 +1,12 @@
 ---
-permalink: /about/
+permalink: /
 title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 
 I’m **Seung Hyun (Sally) Hahm**, a Computer Science M.S. student at **Dartmouth College**, where I study how AI can perceive and communicate the world for those who cannot see it.  
