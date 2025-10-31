@@ -53,7 +53,7 @@ I aim to develop AI systems that can *perceive, describe, and interact*—extend
 
 
 
-I’m **Seung Hyun (Sally) Hahm**, an M.S. student in **Computer Science at Dartmouth College**, where I study how AI can perceive and communicate the world for those who cannot see it.  
+I’m **Seung Hyun (Sally) Hahm**, an M.S. student in **Computer Science at Dartmouth College** advised by Professor Souyoung Jin, where I study how AI can perceive and communicate the world for those who cannot see it.  
 My research focuses on **video understanding** and **audio description generation** for accessibility.
 
 ---
