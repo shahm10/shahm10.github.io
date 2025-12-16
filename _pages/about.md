@@ -53,13 +53,13 @@ I aim to develop AI systems that can *perceive, describe, and interact*—extend
 
 
 
-I’m Seung Hyun (Sally) Hahm, an M.S. student in Computer Science at Dartmouth College advised by Professor Souyoung Jin, where I study how AI can perceive and communicate the world for those who cannot see it.
+I’m Seung Hyun (Sally) Hahm, an M.S. student in Computer Science at Dartmouth College advised by Professor [SouYoung Jin](https://souyoungjin.github.io), where I study how AI can perceive and communicate the world for those who cannot see it.
 
 **What is red?** (255, 0, 0)? A wavelength range? The color of a rose?
 
 A friend once told me he was colorblind, and I tried—earnestly—to explain what “red” meant. I had facts and metaphors, but I couldn’t translate the experience itself. That gap stuck with me. It showed me how easily systems feel complete only because they quietly assume a “default” sensory baseline—quickly excluding others who do not share it.
 
-Most vision systems assume the user can see the rest. For blind and low-vision (BLV) users, the job is different: translate visual information into another channel without losing what makes it meaningful—**who someone is, what changed, and why it matters**. 
+Most vision systems assume the user can see the rest. For blind and low-vision (BLV) users, the job is different: translate visual information into another channel without losing what makes it meaningful—who someone is, what changed, and why it matters. 
 
 I am primarily motivated by this question: **how can computer vision become an independent pathway for understanding, not an add-on to sight?**
 
@@ -88,14 +88,13 @@ My research focuses on how computer vision can communicate the world to people w
 
 **Friendly Spot — Socially Adaptive Human–Robot Interaction (Boston Dynamics Spot), Dartmouth College**
 
-* Built an affect-aware proxemics system that fuses **emotion, pose, gesture, identity, and distance** into a scalar comfort score, then selects 1 of **6 socially meaningful behaviors** (e.g., approach slowly, keep distance, back away, sit).
-* Implemented an end-to-end perception + control pipeline on Spot: **YOLO-based human localization + PTZ targeting**, **LBPH** for repeat face recognition, **DeepFace** for emotion estimation, and **MediaPipe** for gesture/pose cues.
-* Validated key perception modules in controlled indoor trials: **90%** gesture recognition (36/40 hands), **>80%** emotion alignment with prompted expressions, and **<5%** repeat-recognition errors.
+* Built an affect-aware proxemics system that fuses emotion, pose, gesture, identity, and distance into a scalar comfort score, then selects 1 of 6 socially meaningful behaviors (e.g., approach slowly, keep distance, back away, sit).
+* Validated key perception modules in controlled indoor trials: 90% gesture recognition (36/40 hands), >80% emotion alignment with prompted expressions, and <5% repeat-recognition errors.
 
 **InstructBLIP Video-Captioning Optimization, Dartmouth College (Sep 2024–Dec 2024)**
 
-* Optimized InstructBLIP’s **Q-Former** for video–language modeling on **MSR-VTT**, improving video comprehension with a **+24 CIDEr** gain.
-* Achieved **#2** on the MSR-VTT leaderboard using only **6K** video–text pairs.
+* Optimized InstructBLIP’s Q-Former for video–language modeling on MSR-VTT improving video comprehension with a +24 CIDEr gain.
+* Achieved #2 on the MSR-VTT leaderboard using only 6K video–text pairs.
 
 ### Academic Recognition
 - Graduated with High Honors.  
