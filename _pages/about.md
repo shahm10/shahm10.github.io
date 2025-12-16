@@ -79,7 +79,7 @@ My research focuses on how computer vision can communicate the world to people w
 ### Publications
 
 - Tell the Story, Not the Frames: Narrative-Aware Retrieval for Audio Description — CVPR 2026 (under review)
-
+- Selected as an Oral Presenter at NECV2025
 - Character Relationship Prediction in Movies: Toward Emotionally-Aware Automatic Audio Descriptions — High Honors Thesis
 
 ---
