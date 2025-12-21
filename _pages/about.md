@@ -55,6 +55,9 @@ I aim to develop AI systems that can *perceive, describe, and interact*—extend
 
 I’m Seung Hyun (Sally) Hahm, an M.S. student in Computer Science at Dartmouth College advised by Professor [SouYoung Jin](https://souyoungjin.github.io), where I study how AI can perceive and communicate the world for those who cannot see it.
 
+My prior work focused on automatically constructing **large-scale, high-quality datasets** to enable multimodal AI systems that are more useful to humans, as well as scalable, reliable, and safe in real-world deployment.
+
+### Motivation
 **What is red?** (255, 0, 0)? A wavelength range? The color of a rose?
 
 A friend once told me he was colorblind, and I tried—earnestly—to explain what “red” meant. I had facts and metaphors, but I couldn’t translate the experience itself. That gap stuck with me. It showed me how easily systems feel complete only because they quietly assume a “default” sensory baseline—quickly excluding others who do not share it.
